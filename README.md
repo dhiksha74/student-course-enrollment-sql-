@@ -20,6 +20,3 @@ Mini project using SQL to manage students, courses, and enrollments.
 - Total students per course
 - Department-wise student count
 
-## Screenshots
-- [Add query result screenshots here]
-
